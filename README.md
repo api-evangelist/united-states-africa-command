@@ -1,26 +1,32 @@
-# United States Africa Command (united-states-africa-command)
-United States Africa Command (AFRICOM) is a unified combatant command of the United States Department of Defense responsible for military operations and coordination in Africa. AFRICOM's primary mission is to advance U.S. national security interests and promote regional stability through security cooperation, military assistance, and joint training exercises with African partner nations. This includes maintaining a strong presence in key areas of Africa to prevent and counter terrorism, piracy, and other transnational threats. AFRICOM also works to strengthen the capacity and capabilities of African militaries to address regional security challenges and promote peace and stability on the continent. Additionally, AFRICOM supports humanitarian and disaster relief efforts in Africa, providing assistance to countries in times of crisis.
+# United States Africa Command
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-search/united-states-africa-command/refs/heads/main/apis.yml)
+United States Africa Command (AFRICOM) is a unified combatant command of the United States Department of Defense responsible for military operations and coordination in Africa. AFRICOM's primary mission is to advance U.S. national security interests and promote regional stability through security cooperation, military assistance, and joint training exercises with African partner nations. AFRICOM is headquartered at Kelley Barracks in Stuttgart, Germany and maintains relationships with 54 African nations. The command conducts operations spanning humanitarian assistance, counter-terrorism, peacekeeping support, and capacity-building activities across the continent.
 
-## Scope
+**Website:** [https://www.africom.mil/](https://www.africom.mil/)
 
-- **Type:** Index 
-- **Position:** Consumer 
-- **Access:** 3rd-Party 
+## Resources
 
-## Tags:
+| Resource | Link |
+|---|---|
+| Website | [africom.mil](https://www.africom.mil/) |
+| About | [About the Command](https://www.africom.mil/about-the-command) |
+| News | [Media Room](https://www.africom.mil/media-room/news) |
+| Press Releases | [Press Releases](https://www.africom.mil/media-room/press-releases) |
+| DVIDS | [Visual Information](https://www.dvidshub.net/unit/AFRICOM) |
+| Contact | [Contact AFRICOM](https://www.africom.mil/contact) |
 
- - Federal Government
+## Artifacts
 
-## Timestamps
+### JSON-LD Context
 
-- **Created:** 2024-11-20 
-- **Modified:** 2025-01-03 
+- [united-states-africa-command-context.jsonld](json-ld/united-states-africa-command-context.jsonld) — Linked data context aligning AFRICOM organizational vocabulary with schema.org/GovernmentOrganization and military domain concepts.
 
-## Maintainers
+### Vocabulary
 
-**FN:** Kin Lane
+- [united-states-africa-command-vocabulary.yml](vocabulary/united-states-africa-command-vocabulary.yml) — Domain vocabulary covering combatant command operations, security cooperation, partner nation engagement, and military mission area terminology.
 
-**Email:** info@apievangelist.com
+## Notes
 
+AFRICOM is a military combatant command and does not operate a public developer API or open data portal. The command's public information is available through its official website and DVIDS (Defense Visual Information Distribution Service). Data consumers interested in defense-related datasets may find relevant resources through the Department of Defense open data initiatives at [data.mil](https://www.data.mil/).
+
+**Maintained by:** [API Evangelist](https://apievangelist.com)

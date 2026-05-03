@@ -1,0 +1,81 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "mil": "https://www.africom.mil/vocab#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+    "AFRICOM": {
+      "@id": "schema:GovernmentOrganization",
+      "@type": "@id"
+    },
+    "combatantCommand": {
+      "@id": "mil:combatantCommand",
+      "@type": "@id"
+    },
+    "unifiedCommand": {
+      "@id": "mil:unifiedCommand",
+      "@type": "@id"
+    },
+    "militaryOperation": {
+      "@id": "mil:militaryOperation",
+      "@type": "@id"
+    },
+    "securityCooperation": {
+      "@id": "mil:securityCooperation",
+      "@type": "@id"
+    },
+    "partnerNation": {
+      "@id": "mil:partnerNation",
+      "@type": "@id"
+    },
+    "theater": {
+      "@id": "mil:theater",
+      "@type": "@id"
+    },
+    "areaOfResponsibility": {
+      "@id": "mil:areaOfResponsibility",
+      "@type": "@id"
+    },
+    "jointForce": {
+      "@id": "mil:jointForce",
+      "@type": "@id"
+    },
+    "missionArea": {
+      "@id": "mil:missionArea",
+      "@type": "@id"
+    },
+    "capacityBuilding": {
+      "@id": "mil:capacityBuilding",
+      "@type": "@id"
+    },
+    "humanitarianAssistance": {
+      "@id": "mil:humanitarianAssistance",
+      "@type": "@id"
+    },
+    "counterTerrorism": {
+      "@id": "mil:counterTerrorism",
+      "@type": "@id"
+    },
+    "peacekeeping": {
+      "@id": "mil:peacekeeping",
+      "@type": "@id"
+    },
+    "trainAndEquip": {
+      "@id": "mil:trainAndEquip",
+      "@type": "@id"
+    },
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "location": "schema:location",
+    "foundingDate": "schema:foundingDate",
+    "parentOrganization": "schema:parentOrganization",
+    "subOrganization": "schema:subOrganization",
+    "areaServed": "schema:areaServed",
+    "member": "schema:member"
+  }
+}

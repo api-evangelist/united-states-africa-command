@@ -1,0 +1,176 @@
+name: United States Africa Command Vocabulary
+description: >-
+  Domain vocabulary for United States Africa Command (AFRICOM), covering
+  military operations, security cooperation, partner nation engagement, and
+  combatant command organizational concepts across the African continent.
+tags:
+  - Federal Government
+  - Military
+  - Defense
+  - Africa
+  - Combatant Command
+created: '2026-05-03'
+modified: '2026-05-03'
+
+terms:
+
+  - term: AFRICOM
+    label: United States Africa Command
+    definition: >-
+      The unified combatant command of the U.S. Department of Defense
+      responsible for U.S. military operations, exercises, and security
+      cooperation in Africa and surrounding waters.
+    tags:
+      - Organization
+      - Combatant Command
+
+  - term: Area Of Responsibility
+    label: Area of Responsibility
+    abbreviation: AOR
+    definition: >-
+      The geographic region for which a combatant commander is assigned military
+      responsibility. AFRICOM's AOR covers all 54 African nations.
+    tags:
+      - Geography
+      - Military
+
+  - term: Capacity Building
+    label: Capacity Building
+    definition: >-
+      Programs and activities designed to strengthen the institutional and
+      operational capabilities of African partner nations' security forces,
+      enabling them to address security challenges independently.
+    tags:
+      - Security Cooperation
+      - Training
+
+  - term: Combatant Command
+    label: Combatant Command
+    abbreviation: CCMD
+    definition: >-
+      A joint military command with broad continuing missions under a single
+      commander established and designated by the President through the
+      Secretary of Defense with the advice and assistance of the Chairman of
+      the Joint Chiefs of Staff.
+    tags:
+      - Military
+      - Organization
+
+  - term: Counter-Terrorism
+    label: Counter-Terrorism
+    abbreviation: CT
+    definition: >-
+      Operations and activities designed to identify, detect, and neutralize
+      terrorist threats from groups operating in or through Africa that threaten
+      U.S. interests, citizens, and allies.
+    tags:
+      - Operations
+      - Security
+
+  - term: Defense Cooperation Agreement
+    label: Defense Cooperation Agreement
+    abbreviation: DCA
+    definition: >-
+      Bilateral agreements between the United States and partner nations
+      governing the terms of military cooperation, basing rights, status of
+      forces, and security assistance activities.
+    tags:
+      - Legal
+      - Partnership
+
+  - term: Humanitarian Assistance
+    label: Humanitarian Assistance
+    abbreviation: HA
+    definition: >-
+      Activities undertaken to relieve or reduce human suffering, disease,
+      hunger, or privation in response to natural or man-made disasters in
+      Africa.
+    tags:
+      - Humanitarian
+      - Operations
+
+  - term: Joint Force
+    label: Joint Force
+    definition: >-
+      A force composed of elements of two or more Military Departments
+      (Army, Navy, Marine Corps, Air Force, Space Force) operating under a
+      single commander.
+    tags:
+      - Military
+      - Organization
+
+  - term: Military Exercises
+    label: Military Exercises
+    definition: >-
+      Planned military activities conducted to train forces, develop tactics,
+      and strengthen relationships with African partner nations through combined
+      and joint training events.
+    tags:
+      - Training
+      - Security Cooperation
+
+  - term: Partner Nation
+    label: Partner Nation
+    definition: >-
+      An African country with which the United States maintains a security
+      cooperation relationship, including combined exercises, security
+      assistance, and military-to-military engagement.
+    tags:
+      - Partnership
+      - Africa
+
+  - term: Peacekeeping Operations
+    label: Peacekeeping Operations
+    abbreviation: PKO
+    definition: >-
+      Military operations undertaken to support diplomatic efforts to maintain
+      or restore peace by supporting African Union or United Nations peacekeeping
+      missions.
+    tags:
+      - Operations
+      - Peacekeeping
+
+  - term: Security Cooperation
+    label: Security Cooperation
+    abbreviation: SC
+    definition: >-
+      All Department of Defense interactions with foreign defense establishments
+      to build defense relationships that promote specific U.S. security interests,
+      develop allied and friendly military capabilities for self-defense and
+      multinational operations, and provide U.S. forces with peacetime and
+      contingency access.
+    tags:
+      - Security
+      - Cooperation
+
+  - term: Theater Campaign Plan
+    label: Theater Campaign Plan
+    abbreviation: TCP
+    definition: >-
+      A plan that describes how a combatant commander will use available
+      resources over a period of time to achieve theater or operational
+      objectives within a given operational environment.
+    tags:
+      - Planning
+      - Military
+
+  - term: Train And Equip
+    label: Train and Equip
+    abbreviation: T&E
+    definition: >-
+      Security assistance programs that provide training and equipment to
+      African partner nation security forces to enhance their capacity and
+      capability to address regional security challenges.
+    tags:
+      - Training
+      - Security Assistance
+
+  - term: Unified Command
+    label: Unified Command
+    definition: >-
+      A military command with a broad continuing mission that operates under
+      a single commander and is composed of significant assigned components
+      of two or more Military Departments.
+    tags:
+      - Military
+      - Organization
