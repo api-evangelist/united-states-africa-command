@@ -43,6 +43,11 @@ common:
     url: https://www.youtube.com/c/USAfricaCommand
   - type: Contact
     url: https://www.africom.mil/contact
+  - type: Integrations
+    url: https://www.africom.mil/integrations
+integrations:
+  - name: AFRICOM Crest
+  - name: not found
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
