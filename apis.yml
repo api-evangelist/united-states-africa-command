@@ -25,6 +25,8 @@ description: >-
   peacekeeping support, and capacity-building activities across the continent.
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/united-states-africa-command
   - type: Website
     url: https://www.africom.mil/
   - type: About
