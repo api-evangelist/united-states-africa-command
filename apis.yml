@@ -25,6 +25,8 @@ description: >-
   peacekeeping support, and capacity-building activities across the continent.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/united-states-africa-command-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/united-states-africa-command
   - type: Website
