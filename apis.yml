@@ -3,6 +3,11 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/united-states-africa-command/refs/heads/main/apis.yml
 name: United States Africa Command
 tags:
+  - Federal-Government
+  - Military
+  - Defense
+  - Africa
+tags_raw:
   - Federal Government
   - Military
   - Defense
